@@ -1,0 +1,218 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800|Raleway:400,200,100,300,500,600,700,800,900);
+/* font-family: Open Sans, Arial, sans-serif; */
+:root{
+    --bg-black: #27242b;
+    --green: #3d9f96;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.menu {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left:100px 325px;
+    padding: 30px;
+    background-color: #27242b;
+}
+.menu1 a{
+    margin-right: 70px;
+    font-size: medium;
+    margin-left: 70px;
+}
+.menu3 a{
+    margin-left: 300px;
+    text-decoration: underline;
+    font-size: medium;
+}
+.Part1{
+    background-color: #27242b;
+}
+header img{
+        margin-left: 70px;
+}
+
+header{
+    border-bottom: 1px solid gray;
+}
+header div a{
+    font-family: Open Sans, Arial, sans-serif;
+    font-size: 25px;
+    text-decoration: none;
+}
+header ul li{
+    float: left;
+    font-size: medium;
+    font-family: Open Sans, Arial, sans-serif;
+}
+
+h1{
+    font-family: Raleway, Arial, sans-serif;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    font-family: Raleway, Arial, sans-serif;
+}
+h3{
+    text-align: center;
+    font-family: Raleway, Arial, sans-serif;
+}
+.Part1 button{
+    color: #fff;
+    font-size: medium;
+    background-color: #3d9f96;
+    padding: 20px 50px;
+    border-radius: 15px;
+    font-family: Raleway, Arial, sans-serif;
+    margin-left: 45%;
+}
+
+.ordi img{
+height: 410px;
+margin-left: 400px;
+margin-top: 85px;
+}
+section{
+    display: block;
+    height: 100vh;
+}
+.icon1{
+     padding: 65px 350px;
+     margin-left: 60px;
+     margin-top: -5px;
+}
+.icon1 img{
+    height: 5vh;
+    margin-right: 30px;
+}
+.icons{
+background-color: #f7f7f7;
+height: 300px;
+}
+.icon1 p{
+    color: #3d9f96;
+    text-align: center;
+    font-size: x-large;
+    font-family: Raleway, Arial, sans-serif;
+}
+.phone{
+    background-color: #fff;
+    
+}
+.phone p{
+    text-align: center;
+    font-size: xxx-large;
+    font-family: Raleway, Arial, sans-serif;
+}
+.phone h4{
+    text-align: center;
+    font-family: Raleway, Arial, sans-serif;
+    color: rgb(155, 147, 147);
+}
+.plays{
+    display: flex;
+    margin: 100px 200px ;
+    background: url(..//Exo2/assets/img/map_bg.png); height: 700pxx;
+}
+.play1{
+    margin-left: 120px;
+}
+.play2{
+    margin-left: 150px;
+    text-align: left;
+}
+.play2 h2{
+    text-align: left;
+}
+
+/*--- section John----*/
+.John{
+    text-align: center;
+    background-color: #16062b;
+    margin-top: -20vh;
+}
+.John img{
+    padding: 80px;
+    }
+.John h3{
+    margin-top: -40px;
+    color: #fff;
+    }
+.John h2{
+    color: #3d9f96;
+    padding: 25px;    
+    }
+.screens h1{
+    color: black;
+    text-align: left;
+    margin-left: 24vh;
+    margin-top: 10vh;
+    }
+ .screens{
+    background-color: rgb(250, 248, 248);
+    }
+.screen{
+    display: flex;
+    margin-left: 250px;
+}
+.screen img{
+    margin-right: 35px;
+}
+figcaption{
+    margin-top: 15px;
+}
+
+/*--- Fin section John----*/
+
+.row .text button{
+    color: #fff;
+    background-color: #3d9f96;
+    border-color: #3d9f96;
+    border-radius: 15%;
+    padding: 10px 20px;
+}   
+
+.tested{
+    display: flex;
+    margin: 80px;
+    background-color: #fff;
+    }
+.tested img{
+     margin-left: 200px;
+    }
+
+.text{
+    margin-left: 200px;
+}
+.resp{
+    display: flex;
+    margin: 80px;
+    background-color: #fff;
+    }
+.resp img{
+    margin: 0px 130px;
+    }
+.final{
+    background-color: rgb(250, 248, 248);
+    padding: 2%;
+}
+.text2{
+    display: flex;
+    margin-left: 5vh;
+    flex-wrap: wrap;
+}
+.text2a p{
+    margin-right: 10vh;
+}
+footer{
+    margin-left: 200px;
+    padding: 10px;
+}
+footer img{
+    margin-left: 50px;
+}
+footer p{
+    margin-right: 300px;
+}
